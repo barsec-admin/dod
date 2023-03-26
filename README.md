@@ -1,14 +1,8 @@
-# dod
-
-Be sure to change these for your instance:
 # API setup
-client_id = "client_id"
-
-client_secret = "client_secret"
-
-access_token = "access_token"
-
-api_base_url = "https://yourinstance.com/"
+- client_id = client_id
+- client_secret = client_secret
+- access_token = access_token
+- api_base_url = https://yourinstance.com/
 
 
 In this text-based adventure game, you play as a character who encounters a monster and must choose actions to defeat it. The game is played through Mastodon, a social networking platform. Interactions with the game are performed by mentioning the game's account in your toots (posts) and using specific commands.
