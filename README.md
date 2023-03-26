@@ -3,8 +3,11 @@
 Be sure to change these for your instance:
 # API setup
 client_id = "client_id"
+
 client_secret = "client_secret"
+
 access_token = "access_token"
+
 api_base_url = "https://yourinstance.com/"
 
 
